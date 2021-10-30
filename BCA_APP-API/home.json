@@ -1,0 +1,60 @@
+{
+	"home_slider": [{
+			"title": "কারেন্ট অ্যাফেয়ার্স",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+		},
+		{
+			"title": "Settings",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_settings.webp"
+		}
+	],
+	"home_category": [{
+			"title": "কারেন্ট অ্যাফেয়ার্স",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+		},
+		{
+			"title": "পরীক্ষার সাজেশন",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp"
+		},
+		{
+			"title": "সাজেশন PDF",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Download.png"
+		},
+		{
+			"title": "চাকরির খবর",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Job.png"
+		},
+		{
+			"title": "গুরুত্বপূর্ণ মকটেস্ট",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Mocktest.png"
+		},
+		{
+			"title": "Few Books",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Books.png"
+		},
+		{
+			"title": "জেনারেল নলেজ",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_gk.webp"
+		},
+		{
+			"title": "গুরুত্বপূর্ণ সাজেসান",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_sgasn.webp"
+		},
+		{
+			"title": "ইংরেজি প্রশ্ন উত্তর",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_english.webp"
+		},
+		{
+			"title": "গণিত প্রশ্ন উত্তর",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png"
+		},
+		{
+			"title": "কম্পিউটার জিকে",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_computer.webp"
+		},
+		{
+			"title": "Settings",
+			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_settings.webp"
+		}
+	]
+}
