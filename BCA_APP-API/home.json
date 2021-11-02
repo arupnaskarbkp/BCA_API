@@ -20,6 +20,11 @@
 			"labels": "Current affairs"
 		},
 		{
+			"Title": "ইতিহাস",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp",
+			"labels": "History"
+		},
+		{
 			"Title": "পরীক্ষার সাজেশন",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp",
 			"labels": "Exam Suggestions"
