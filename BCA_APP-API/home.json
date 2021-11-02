@@ -17,62 +17,62 @@
 	"home_category": [{
 			"Title": "কারেন্ট অ্যাফেয়ার্স",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-			"labels": "History"
+			"labels": "Current affairs"
 		},
 		{
 			"Title": "পরীক্ষার সাজেশন",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp",
-			"labels": "History"
+			"labels": "Exam Suggestions"
 		},
 		{
 			"Title": "সাজেশন PDF",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Download.png",
-			"labels": "History"
+			"labels": "Suggestions Pdf"
 		},
 		{
 			"Title": "চাকরির খবর",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Job.png",
-			"labels": "History"
+			"labels": "Job News"
 		},
 		{
 			"Title": "গুরুত্বপূর্ণ মকটেস্ট",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Mocktest.png",
-			"labels": "History"
+			"labels": "Impotent Mock Test"
 		},
 		{
 			"Title": "Few Books",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Books.png",
-			"labels": "History"
+			"labels": "Few Books"
 		},
 		{
 			"Title": "জেনারেল নলেজ",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_gk.webp",
-			"labels": "History"
+			"labels": "General knowledge"
 		},
 		{
 			"Title": "গুরুত্বপূর্ণ সাজেসান",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_sgasn.webp",
-			"labels": "History"
+			"labels": "Impotent Suggestions"
 		},
 		{
 			"Title": "ইংরেজি প্রশ্ন উত্তর",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_english.webp",
-			"labels": "History"
+			"labels": "English QNA"
 		},
 		{
 			"Title": "গণিত প্রশ্ন উত্তর",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
-			"labels": "History"
+			"labels": "Math QNA"
 		},
 		{
 			"Title": "কম্পিউটার জিকে",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_computer.webp",
-			"labels": "History"
+			"labels": "Computer Gk"
 		},
 		{
 			"Title": "Settings",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_settings.webp",
-			"labels": "History"
+			"labels": "Settings"
 		}
 	]
 }
