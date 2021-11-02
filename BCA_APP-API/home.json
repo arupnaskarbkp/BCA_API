@@ -15,52 +15,64 @@
 		}
 	],
 	"home_category": [{
-			"title": "কারেন্ট অ্যাফেয়ার্স",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+			"Title": "কারেন্ট অ্যাফেয়ার্স",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
+			"labels": "History"
 		},
 		{
-			"title": "পরীক্ষার সাজেশন",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp"
+			"Title": "পরীক্ষার সাজেশন",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_suggestion.webp",
+			"labels": "History"
 		},
 		{
-			"title": "সাজেশন PDF",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Download.png"
+			"Title": "সাজেশন PDF",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Download.png",
+			"labels": "History"
 		},
 		{
-			"title": "চাকরির খবর",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Job.png"
+			"Title": "চাকরির খবর",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Job.png",
+			"labels": "History"
 		},
 		{
-			"title": "গুরুত্বপূর্ণ মকটেস্ট",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Mocktest.png"
+			"Title": "গুরুত্বপূর্ণ মকটেস্ট",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Mocktest.png",
+			"labels": "History"
 		},
 		{
-			"title": "Few Books",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Books.png"
+			"Title": "Few Books",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Books.png",
+			"labels": "History"
 		},
 		{
-			"title": "জেনারেল নলেজ",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_gk.webp"
+			"Title": "জেনারেল নলেজ",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_gk.webp",
+			"labels": "History"
 		},
 		{
-			"title": "গুরুত্বপূর্ণ সাজেসান",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_sgasn.webp"
+			"Title": "গুরুত্বপূর্ণ সাজেসান",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_sgasn.webp",
+			"labels": "History"
 		},
 		{
-			"title": "ইংরেজি প্রশ্ন উত্তর",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_english.webp"
+			"Title": "ইংরেজি প্রশ্ন উত্তর",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_english.webp",
+			"labels": "History"
 		},
 		{
-			"title": "গণিত প্রশ্ন উত্তর",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png"
+			"Title": "গণিত প্রশ্ন উত্তর",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
+			"labels": "History"
 		},
 		{
-			"title": "কম্পিউটার জিকে",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_computer.webp"
+			"Title": "কম্পিউটার জিকে",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_computer.webp",
+			"labels": "History"
 		},
 		{
-			"title": "Settings",
-			"image_url": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_settings.webp"
+			"Title": "Settings",
+			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/ic_settings.webp",
+			"labels": "History"
 		}
 	]
 }
