@@ -17,12 +17,12 @@
 	"home_category": [{
 			"Title": "কারেন্ট অ্যাফেয়ার্স",
 			"ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-			"labels": "Current affairs"
+			"labels": "current affairs"
 		},
 		{
 			"Title": "ইতিহাস",
 			"ImageUrl": "https://raw.githubusercontent.com/arupnaskarbkp/BCA_API/gh-pages/BCA_APP-API/images/history.png",
-			"labels": "History"
+			"labels": "history"
 		},
 		{
 			"Title": "পরীক্ষার সাজেশন",
